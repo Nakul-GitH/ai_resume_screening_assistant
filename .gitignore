@@ -1,0 +1,6 @@
+.env
+myenv/
+__pycache__/
+.ipynb_checkpoints/
+code_debug.ipynb
+Assignment.docx

@@ -1,0 +1,26 @@
+Position: Senior Data Scientist / Generative AI Engineer
+
+Required Skills:
+- 8+ years of experience in Data Science, Machine Learning, or AI.
+- Strong Python programming and data analysis experience.
+- Strong knowledge of Machine Learning and Deep Learning.
+- Experience with Generative AI and Large Language Models (LLMs).
+- Hands-on experience building Retrieval-Augmented Generation (RAG) solutions.
+- Experience with Natural Language Processing (NLP).
+- Experience with at least one major cloud platform: AWS, Azure, or GCP.
+- Experience with vector databases and semantic search.
+- Experience developing production-ready AI/ML solutions.
+
+Preferred Skills:
+- LangChain or similar LLM orchestration frameworks.
+- MLOps and CI/CD experience.
+- Experience with Docker or Kubernetes.
+- Experience leading AI/ML projects or teams.
+
+Responsibilities:
+- Design and develop AI/ML and Generative AI solutions.
+- Build and improve RAG-based applications.
+- Develop scalable machine learning pipelines.
+- Work with cloud platforms and modern AI technologies.
+- Collaborate with technical and business stakeholders.
+- Lead or mentor other data science and engineering team members.
